@@ -604,7 +604,7 @@ sub match {
     print MATCH_DEST $matchesJobs;
     close(MATCH_DEST);
 	
-    run("\"$BIN_PATH/parallel\" --halt-on-error 1 -j+0 < \"$jobOptions{step_2_macthes_jobs}\"");
+    run("\"$BIN_PATH/parallel\" --halt-on-error 1 -j3 < \"$jobOptions{step_2_macthes_jobs}\"");
 	
 	run("rm -f \"$jobOptions{step_2_matches}\"");
 	
