@@ -271,6 +271,7 @@
   "SONY DSC-H7": 5.744,
   "SONY DSC-H9": 5.744,
   "SONY DSC-HX5V": 6.104,
+  "SONY DSC-HX50V": 6.17,
   "SONY DSC-N12": 7.176,
   "SONY DSC-P100": 7.176,
   "SONY DSC-P10": 7.176,
@@ -301,5 +302,6 @@
   "SONY SLT-A77": 23.5,
   "SONY SLT-A77 II": 23.5,
   "SONY SLT-A77V": 23.5,
-  "SONY SLT-A99": 35.8
+  "SONY SLT-A99": 35.8,
+  "Vexcel UltraCam": 28.00
 }
